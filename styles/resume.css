@@ -4,6 +4,7 @@
 
 .principal {
     display: flex;
+    flex-flow: row nowrap;
     justify-content: space-between;
     padding: 4% 6%;
     color: #868686;
@@ -19,4 +20,9 @@
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 80px;
     font-size: 24px;
+}
+
+.imagem {
+    height: 550px;
+    width: 490px;
 }
