@@ -152,7 +152,7 @@ strong:not(.TitleDestaque):hover {
 }
 
 
-@media (max-width: 500px) {
+@media (max-width: 616px) {
     .cabecalho__menu {
         flex-direction: column;
         align-items: center;
